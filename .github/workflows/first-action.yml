@@ -1,0 +1,10 @@
+name: First Workflow
+on: workflow_dispatch
+jobs:
+    first-job:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Print Roar
+          run: echo "Chrsit is King"
+        - name: Print Goodnews
+          run: echo "God is Love <3"
