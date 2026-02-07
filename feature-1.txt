@@ -1,0 +1,7 @@
+UI ENHANCEMENTS
+================
+Add header
+Add footer 
+Add Background 
+Add Nav bar
+Add carousel 
